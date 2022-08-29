@@ -1,0 +1,12 @@
+server:
+  port: 30300
+  tomcat:
+    uri-encoding: UTF-8
+  max-http-header-size: 20480KB
+
+logging:
+  level:
+    com.mandala.etl.mapper: debug
+
+
+
